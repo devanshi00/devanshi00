@@ -14,7 +14,7 @@ I am a versatilist and easily adapt to different hats ( ML Engineer 🤖 , Web D
 - 👨🏻‍💻 &nbsp; Most of my projects are available on [Github](https://github.com/devanshi00?tab=repositories)
 - 💬 &nbsp; Ask me about anything tech related, I am happy to help;
 - 📫 &nbsp; Feel free to ping me on [LinkedIn](https://www.linkedin.com/in/devanshi-chhatbar-07531825a/)
-- 📝 &nbsp; Checkout my [resume](https://drive.google.com/file/d/1mmYmWqFc5ogtLzktKGJ2QijnRVVu0Z17/view?usp=sharing)
+- 📝 &nbsp; Checkout my [resume](https://drive.google.com/file/d/1kznCnUbXMLQS8mjiorXAkDqfUC7mPJuz/view?usp=sharing)
 - 📚 &nbsp; When I am free, I dance or listen to music.
 <br>
 

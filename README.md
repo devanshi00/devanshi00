@@ -14,7 +14,6 @@ I am a versatilist and easily adapt to different hats ( ML Engineer 🤖 , Web D
 - 👨🏻‍💻 &nbsp; Most of my projects are available on [Github](https://github.com/devanshi00?tab=repositories)
 - 💬 &nbsp; Ask me about anything tech related, I am happy to help;
 - 📫 &nbsp; Feel free to ping me on [LinkedIn](https://www.linkedin.com/in/devanshi-chhatbar-07531825a/)
-- 📝 &nbsp; Checkout my [resume](https://drive.google.com/file/d/1kznCnUbXMLQS8mjiorXAkDqfUC7mPJuz/view?usp=sharing)
 - 📚 &nbsp; When I am free, I dance or listen to music.
 <br>
 
@@ -27,7 +26,6 @@ I am a versatilist and easily adapt to different hats ( ML Engineer 🤖 , Web D
 <img src="https://github.com/devicons/devicon/blob/master/icons/numpy/numpy-original.svg" title="Numpy" alt="Numpy" width="40" height="40"/>&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/opencv/opencv-original.svg" title="OpenCV" alt="OpenCV" width="40" height="40"/>&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/pandas/pandas-original.svg" title="Pandas" alt="Pandas" width="40" height="40"/>&nbsp;
-<img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg"  title="Python" alt="Python" width="40" height="40"/>&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg" title="cplusplus" alt="cplusplus" width="40" height="40"/>&nbsp;
 <a href="https://reactjs.org/" target="_blank"> <img align="left" alt="React" height ="42px" src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/react/react.svg"></a>
 <a href="https://nodejs.org" target="_blank"><img align="left" alt="Node.js" height ="42px" src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/node/node.svg"></a>
